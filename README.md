@@ -83,7 +83,7 @@ env:
     - CODECOV_ELIGIBLE=true
 ```
 
-For example, see the [current test coverage](https://codecov.io/gh/IBM-Swift/Swift-cfenv) for the [Swift-cfenv](https://github.com/IBM-Swift/Swift-cfenv) package.
+For example, see the [current test coverage](https://codecov.io/gh/KituraKommunity/Swift-cfenv) for the [Swift-cfenv](https://github.com/KituraKommunity/Swift-cfenv) package.
 
 ![Codecov Report](/img/codecov-swift-cfenv-1024x768.png?raw=true "Code Coverage Report")
 
